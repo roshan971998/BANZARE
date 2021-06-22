@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 11, 2020, 8:42:14 PM
+    Author     : ROSHAN RAJ
+*/
+
+.card:hover {
+    transform:scale(1.1,1.1);
+    transition: 0.4s ease-out;
+}
+.carousel-control-prev{
+    left: 0%;
+}
+.carousel-control-next{
+    right: 0%;
+}
+
+
+
+
+
